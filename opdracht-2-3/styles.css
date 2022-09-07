@@ -8,6 +8,7 @@ h1,h3{
     font-family: "Comic Sans MS", Arial sans-serif;
     text-align: center;
     color: black;
+
 }
 
 .navigation-container{
@@ -44,6 +45,7 @@ h1,h3{
 .boxes{
     display: flex;
     justify-content: center;
+    margin-top: 40px;
 
 }
 
